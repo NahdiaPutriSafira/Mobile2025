@@ -2,7 +2,15 @@
 
 A new Flutter project.
 
-![Screenshot hello_world] (D:\Dokumen\coolyeah\Semester 5\Mobile2025\Jobsheet4\hello_world\images\01.jpg)
+![Screenshot hello_world](images/01.jpg)
+
+![Screenshot hello_world](images/02.png) //perubahan langkah 1 praktikum 4
+
+![Screenshot hello_world](images/03.jpg)
+![Screenshot hello_world](images/4.jpg)
+![Screenshot hello_world](images/5.jpg)
+![Screenshot hello_world](images/6.jpg)
+
 
 ## Getting Started
 
