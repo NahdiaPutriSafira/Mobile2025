@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter layout: Muhammad Khalid Atthoriq 2341720114',
+      title: 'Flutter layout: Nahdia Putri Safira 2341720015',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter layout demo'),
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           child: Column(
             children: [
               const ImageSection(
-                image: 'images/done.jpg',
+                image: 'assets/gunung.jpg',
               ),
               const TitleSection(
                 name: 'Oeschinen Lake Campground',
