@@ -8,7 +8,9 @@ Kegunaan: Variabel plan berfungsi sebagai penyimpanan state utama aplikasi, memu
 Konstanta (const): Class Plan dan Task bersifat immutable (tidak dapat diubah). Setiap pembaruan (tambah/edit/centang) memerlukan pembuatan objek Plan yang baru (dengan setState()), bukan memodifikasi objek lama.
 
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
-<video controls src="WhatsApp Video 2025-12-01 at 16.20.05_d2a34eb9.mp4" title="Hasil langkah 9"></video>
+
+![alt text](<images/TUGAS NOMER 4 .gif>)
+
 
 5. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
 Pada langkah 11 initState() berfungsi untuk bertanggung jawab untuk menginisialisasi sumber daya yang diperlukan, seperti ScrollController, dan mengatur listener untuk menyembunyikan keyboard saat scrolling. Dipanggil hanya sekali saat State pertama kali dibuat.
