@@ -9,7 +9,7 @@ Konstanta (const): Class Plan dan Task bersifat immutable (tidak dapat diubah). 
 
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
-![Demo Tugas 4](images/TUGAS4.gif)
+![Alt text](D:\Dokumen\coolyeah\Semester 5\Mobile2025\Jobsheet10\master_plan\images\TUGAS NOMER 4 .gif)
 
 
 5. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
